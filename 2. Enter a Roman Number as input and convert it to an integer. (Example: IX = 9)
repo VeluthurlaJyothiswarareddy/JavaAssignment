@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class RomanToInteger {
     public static void main(String[] args) {
-        String romanNumeral = "IX"; // Replace with your input Roman numeral
+        String romanNumeral = "IX"; 
         int result = romanToInteger(romanNumeral);
         System.out.println("Roman numeral " + romanNumeral + " is equivalent to " + result);
     }
